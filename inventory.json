@@ -1,7 +1,7 @@
 {
   "dealership": "Capilano Volkswagen",
-  "generated_at": "2026-10-25T20:42:26",
-  "vehicle_count": 116,
+  "generated_at": "2026-10-25T21:10:19",
+  "vehicle_count": 113,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -159,15 +159,6 @@
       "condition": "used"
     },
     {
-      "name": "2024 Nissan Sentra SR",
-      "vin": "3N1AB8DV2RY250848",
-      "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/used/1e1576d6bbf2.html",
-      "year": 2024,
-      "make": "Nissan",
-      "model": "Sentra",
-      "condition": "used"
-    },
-    {
       "name": "2024 Volkswagen Atlas Comfortline 2.0 TSI 4MOTION | 3rd Row Seats",
       "vin": "1V2LR2CAXRC507534",
       "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/used/1bf174869b07.html",
@@ -183,24 +174,6 @@
       "year": 2024,
       "make": "Volkswagen",
       "model": "Atlas",
-      "condition": "used"
-    },
-    {
-      "name": "2025 Volkswagen ID. Buzz 1st Edition 4MOTION",
-      "vin": "WVG9YVEB4SH021523",
-      "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/used/1221b84dad65.html",
-      "year": 2025,
-      "make": "Volkswagen",
-      "model": "ID. Buzz",
-      "condition": "used"
-    },
-    {
-      "name": "2025 Volkswagen Tiguan Highline R-Line 4MOTION",
-      "vin": "3VVLR7RM6SM038996",
-      "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/used/82f79f0d5655.html",
-      "year": 2025,
-      "make": "Volkswagen",
-      "model": "Tiguan",
       "condition": "used"
     },
     {
