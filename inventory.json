@@ -1,7 +1,7 @@
 {
   "dealership": "Capilano Volkswagen",
-  "generated_at": "2026-11-17T02:02:18",
-  "vehicle_count": 113,
+  "generated_at": "2026-11-17T03:57:34",
+  "vehicle_count": 106,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -30,93 +30,21 @@
       "condition": "new"
     },
     {
-      "name": "2011 Chevrolet Suburban LT",
-      "vin": "1GNSKJE36BR280864",
-      "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/used/891cc4266255.html",
-      "year": 2011,
-      "make": "Chevrolet",
-      "model": "Suburban",
-      "condition": "used"
-    },
-    {
-      "name": "2014 Mazda Mazda2 GX | Convenience Package | Automatic",
-      "vin": "JM1DE1KY9E0186172",
-      "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/used/c1e6f074a4bb.html",
-      "year": 2014,
-      "make": "Mazda",
-      "model": "Mazda2 GX",
-      "condition": "used"
-    },
-    {
-      "name": "2015 Volkswagen Tiguan",
-      "vin": "WVGJV7AX8FW093605",
-      "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/used/0d957f65aa1c.html",
-      "year": 2015,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "used"
-    },
-    {
-      "name": "2016 Honda Civic Sedan LX",
-      "vin": "2HGFC2F50GH018876",
-      "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/used/539b60718c99.html",
-      "year": 2016,
+      "name": "2017 Honda Civic Coupe Si | 6sp Manual",
+      "vin": "2HGFC3A52HH220181",
+      "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/used/dafcf4fd2fb9.html",
+      "year": 2017,
       "make": "Honda",
       "model": "Civic",
       "condition": "used"
     },
     {
-      "name": "2016 Volkswagen Golf Sportwagon Comfortline",
-      "vin": "3VWC17AU7GM515635",
-      "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/used/b9b4e3910892.html",
-      "year": 2016,
+      "name": "2019 Volkswagen Golf Comfortline | Driver Assistance Package",
+      "vin": "3VWG57AU2KM034545",
+      "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/used/3067caa1f682.html",
+      "year": 2019,
       "make": "Volkswagen",
       "model": "Golf",
-      "condition": "used"
-    },
-    {
-      "name": "2016 Volkswagen Tiguan Special Edition",
-      "vin": "WVGJV7AX0GW574790",
-      "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/used/07b1fb0e0a91.html",
-      "year": 2016,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "used"
-    },
-    {
-      "name": "2017 Volkswagen Golf Alltrack Sportwagen",
-      "vin": "3VWH17AU6HM542445",
-      "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/used/ce0728c84f98.html",
-      "year": 2017,
-      "make": "Volkswagen",
-      "model": "Golf",
-      "condition": "used"
-    },
-    {
-      "name": "2017 Volkswagen Jetta Sedan Wolfsburg Edition",
-      "vin": "3VWDB7AJXHM325420",
-      "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/used/7990fdcc517e.html",
-      "year": 2017,
-      "make": "Volkswagen",
-      "model": "Jetta",
-      "condition": "used"
-    },
-    {
-      "name": "2018 Nissan Rogue SL AWD",
-      "vin": "JN8AT2MV2JW340816",
-      "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/used/34f05c4d6a8d.html",
-      "year": 2018,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "used"
-    },
-    {
-      "name": "2021 Ford F-150 SuperCrew | LARIAT 145",
-      "vin": "1FTFW1ED6MFC56107",
-      "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/used/7cfba6a134e2.html",
-      "year": 2021,
-      "make": "Ford",
-      "model": "F-150 SuperCrew",
       "condition": "used"
     },
     {
@@ -129,15 +57,6 @@
       "condition": "used"
     },
     {
-      "name": "2022 Volkswagen Atlas Cross Sport Highline",
-      "vin": "1V2BE2CA8NC202437",
-      "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/used/2572bfa36848.html",
-      "year": 2022,
-      "make": "Volkswagen",
-      "model": "Atlas Cross Sport",
-      "condition": "used"
-    },
-    {
       "name": "2022 Volkswagen Atlas Highline",
       "vin": "1V2BR2CA1NC558751",
       "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/used/6149d8817dd9.html",
@@ -147,39 +66,30 @@
       "condition": "used"
     },
     {
-      "name": "2022 Volkswagen ID.4 Pro AWD | Statement Package & Panoramic Roof",
-      "vin": "WVGUNPE24NP063912",
-      "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/used/77d29f8c1db1.html",
-      "year": 2022,
-      "make": "Volkswagen",
-      "model": "ID.4",
-      "condition": "used"
-    },
-    {
-      "name": "2022 Volkswagen Taos Highline 4MOTION | Driver Assistance Package",
-      "vin": "3VV2X7B26NM067736",
-      "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/used/ff6ddf245323.html",
+      "name": "2022 Volkswagen Taos Comfortline 4MOTION",
+      "vin": "3VVLX7B26NM093001",
+      "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/used/b1dbe85201a4.html",
       "year": 2022,
       "make": "Volkswagen",
       "model": "Taos",
       "condition": "used"
     },
     {
-      "name": "2022 Volkswagen Taos Comfortline 4MOTION | Sunroof & Wheel Package",
-      "vin": "3VVLX7B24NM075810",
-      "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/used/23993038883d.html",
-      "year": 2022,
-      "make": "Volkswagen",
-      "model": "Taos",
-      "condition": "used"
-    },
-    {
-      "name": "2023 Volkswagen Golf GTI Autobahn | 6-Speed/Manual",
-      "vin": "WVWHA7CD6PW116575",
-      "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/used/f9428ab57b0f.html",
+      "name": "2023 Volkswagen Atlas Cross Sport Execline 3.6L 4MOTION",
+      "vin": "1V2FE2CA2PC200851",
+      "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/used/5c676ed7b915.html",
       "year": 2023,
       "make": "Volkswagen",
-      "model": "Golf GTI",
+      "model": "Atlas Cross Sport",
+      "condition": "used"
+    },
+    {
+      "name": "2023 Volkswagen Atlas Highline 3.6L 4MOTION | Captain's Chair Package",
+      "vin": "1V2BR2CA2PC501462",
+      "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/used/eefed56e62c1.html",
+      "year": 2023,
+      "make": "Volkswagen",
+      "model": "Atlas",
       "condition": "used"
     },
     {
@@ -192,21 +102,57 @@
       "condition": "used"
     },
     {
-      "name": "2024 Volkswagen Atlas Execline 2.0 TSI 4MOTION | 3rd Row Seats",
-      "vin": "1V2FR2CA8RC523700",
-      "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/used/f2dd79153823.html",
+      "name": "2024 Volkswagen Atlas Comfortline 4MOTION",
+      "vin": "1V2LR2CA2RC510380",
+      "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/used/ecf982894a8b.html",
       "year": 2024,
       "make": "Volkswagen",
       "model": "Atlas",
       "condition": "used"
     },
     {
-      "name": "2026 Volkswagen Jetta Trendline",
-      "vin": "3VWCW7BU8TM034285",
-      "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/used/2d03146f6996.html",
-      "year": 2026,
+      "name": "2024 Volkswagen Jetta Highline 1.5 T 8Sp at w/Tip",
+      "vin": "3VWGM7BU9RM056165",
+      "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/used/b1335740e438.html",
+      "year": 2024,
       "make": "Volkswagen",
       "model": "Jetta",
+      "condition": "used"
+    },
+    {
+      "name": "2024 Volkswagen Tiguan Comfortline R-Line Black Edition",
+      "vin": "3VV8B7AX3RM128925",
+      "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/used/f830d56b7d9e.html",
+      "year": 2024,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "condition": "used"
+    },
+    {
+      "name": "2024 Volkswagen Tiguan Comfortline",
+      "vin": "3VVMB7AX0RM182648",
+      "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/used/ef5987e8160b.html",
+      "year": 2024,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "condition": "used"
+    },
+    {
+      "name": "2024 Volkswagen Tiguan Comfortline 4MOTION",
+      "vin": "3VVMB7AX1RM196607",
+      "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/used/f4b164f0788f.html",
+      "year": 2024,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "condition": "used"
+    },
+    {
+      "name": "2026 Volkswagen Golf R Black Edition",
+      "vin": "WVWKF7CD2TW223172",
+      "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/used/a5339c4e3657.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Golf R",
       "condition": "used"
     },
     {
@@ -216,15 +162,6 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "used"
-    },
-    {
-      "name": "2026 Volkswagen Tiguan Highline Turbo R-Line",
-      "vin": "3VVUW7RMXTM009936",
-      "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/used/0e42dbfb5cfe.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Tiguan",
       "condition": "used"
     },
     {
