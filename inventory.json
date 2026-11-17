@@ -1,10 +1,34 @@
 {
   "dealership": "Capilano Volkswagen",
-  "generated_at": "2026-10-26T06:04:54",
+  "generated_at": "2026-11-17T02:02:18",
   "vehicle_count": 113,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "New Volkswagen Inventoryat Capilano Volkswagen in North Vancouver",
+      "vin": "1V2FC2CA3TC219358",
+      "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/new/f614f8708ebb.html",
+      "condition": "new"
+    },
+    {
+      "name": "New Volkswagen Inventoryat Capilano Volkswagen in North Vancouver",
+      "vin": "1V2FC2CA3TC219358",
+      "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/new/2d1f0edc49b6.html",
+      "condition": "new"
+    },
+    {
+      "name": "New Volkswagen Inventoryat Capilano Volkswagen in North Vancouver",
+      "vin": "1V2FC2CA3TC219358",
+      "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/new/01a84ba4e54b.html",
+      "condition": "new"
+    },
+    {
+      "name": "New Volkswagen Inventoryat Capilano Volkswagen in North Vancouver",
+      "vin": "1V2FC2CA3TC219358",
+      "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/new/4d2b6b537580.html",
+      "condition": "new"
+    },
     {
       "name": "2011 Chevrolet Suburban LT",
       "vin": "1GNSKJE36BR280864",
@@ -295,15 +319,6 @@
     },
     {
       "name": "2026 Volkswagen Golf GTI GTI Autobahn",
-      "vin": "WVWNE7CD7TW293301",
-      "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/new/f614f8708ebb.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Golf GTI",
-      "condition": "new"
-    },
-    {
-      "name": "2026 Volkswagen Golf GTI GTI Autobahn",
       "vin": "WVWRE7CD8TW293390",
       "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/new/423098e347be.html",
       "year": 2026,
@@ -315,15 +330,6 @@
       "name": "2026 Volkswagen Golf R R 4MOTION",
       "vin": "WVWJF7CD7TW298655",
       "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/new/96941563cb38.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Golf R",
-      "condition": "new"
-    },
-    {
-      "name": "2026 Volkswagen Golf R R Black Edition 4MOTION",
-      "vin": "WVWKF7CD0TW295309",
-      "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/new/2d1f0edc49b6.html",
       "year": 2026,
       "make": "Volkswagen",
       "model": "Golf R",
@@ -646,15 +652,6 @@
     },
     {
       "name": "2026 Volkswagen Tiguan Comfortline 4MOTION",
-      "vin": "3VVER7RM5TM164793",
-      "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/new/01a84ba4e54b.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "new"
-    },
-    {
-      "name": "2026 Volkswagen Tiguan Comfortline 4MOTION",
       "vin": "3VVER7RM3TM167823",
       "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/new/6281efe984cb.html",
       "year": 2026,
@@ -702,15 +699,6 @@
       "name": "2026 Volkswagen Tiguan Comfortline 4MOTION",
       "vin": "3VVER7RM0TM171246",
       "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/new/955a14a7f3ed.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "new"
-    },
-    {
-      "name": "2026 Volkswagen Tiguan Comfortline 4MOTION",
-      "vin": "3VVER7RM8TM173987",
-      "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/new/4d2b6b537580.html",
       "year": 2026,
       "make": "Volkswagen",
       "model": "Tiguan",
