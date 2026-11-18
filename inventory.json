@@ -1,7 +1,7 @@
 {
   "dealership": "Capilano Volkswagen",
-  "generated_at": "2026-11-18T07:47:21",
-  "vehicle_count": 106,
+  "generated_at": "2026-11-18T16:24:42",
+  "vehicle_count": 105,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -72,6 +72,15 @@
       "condition": "used"
     },
     {
+      "name": "2019 Volkswagen Golf Comfortline | Manual",
+      "vin": "3VWW57AU2KM004957",
+      "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/used/3708a325e720.html",
+      "year": 2019,
+      "make": "Volkswagen",
+      "model": "Golf",
+      "condition": "used"
+    },
+    {
       "name": "2021 Ford Mustang GT Premium Coupe | 5.0L 460 HP Automatic",
       "vin": "1FA6P8CFXM5108953",
       "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/used/fc66f0206e3c.html",
@@ -87,15 +96,6 @@
       "year": 2022,
       "make": "Volkswagen",
       "model": "Atlas",
-      "condition": "used"
-    },
-    {
-      "name": "2022 Volkswagen Taos Comfortline 4MOTION",
-      "vin": "3VVLX7B26NM093001",
-      "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/used/b1dbe85201a4.html",
-      "year": 2022,
-      "make": "Volkswagen",
-      "model": "Taos",
       "condition": "used"
     },
     {
@@ -117,10 +117,10 @@
       "condition": "used"
     },
     {
-      "name": "2024 Volkswagen Atlas Comfortline 2.0 TSI 4MOTION | 3rd Row Seats",
-      "vin": "1V2LR2CAXRC507534",
-      "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/used/1bf174869b07.html",
-      "year": 2024,
+      "name": "2023 Volkswagen Atlas Execline 3.6L 4MOTION",
+      "vin": "1V2FR2CA7PC545006",
+      "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/used/643a37c05288.html",
+      "year": 2023,
       "make": "Volkswagen",
       "model": "Atlas",
       "condition": "used"
@@ -168,15 +168,6 @@
       "year": 2024,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "used"
-    },
-    {
-      "name": "2026 Volkswagen Golf R Black Edition",
-      "vin": "WVWKF7CD2TW223172",
-      "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/used/a5339c4e3657.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Golf R",
       "condition": "used"
     },
     {
