@@ -1,10 +1,22 @@
 {
   "dealership": "Capilano Volkswagen",
-  "generated_at": "2026-11-17T22:18:34",
+  "generated_at": "2026-11-18T02:08:42",
   "vehicle_count": 106,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "New Volkswagen Inventoryat Capilano Volkswagen in North Vancouver",
+      "vin": "1V2FC2CA3TC219358",
+      "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/new/a7c55ffc93bf.html",
+      "condition": "new"
+    },
+    {
+      "name": "New Volkswagen Inventoryat Capilano Volkswagen in North Vancouver",
+      "vin": "1V2FC2CA3TC219358",
+      "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/new/518fae242af6.html",
+      "condition": "new"
+    },
     {
       "name": "New Volkswagen Inventoryat Capilano Volkswagen in North Vancouver",
       "vin": "1V2FC2CA3TC219358",
@@ -27,6 +39,18 @@
       "name": "New Volkswagen Inventoryat Capilano Volkswagen in North Vancouver",
       "vin": "1V2FC2CA3TC219358",
       "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/new/4d2b6b537580.html",
+      "condition": "new"
+    },
+    {
+      "name": "New Volkswagen Inventoryat Capilano Volkswagen in North Vancouver",
+      "vin": "1V2FC2CA3TC219358",
+      "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/new/ca3c79eed772.html",
+      "condition": "new"
+    },
+    {
+      "name": "New Volkswagen Inventoryat Capilano Volkswagen in North Vancouver",
+      "vin": "1V2FC2CA3TC219358",
+      "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/new/3acb39d38d90.html",
       "condition": "new"
     },
     {
@@ -207,24 +231,6 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Atlas Cross Sport",
-      "condition": "new"
-    },
-    {
-      "name": "2026 Volkswagen Atlas Execline",
-      "vin": "1V2FN2CA3TC559510",
-      "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/new/a7c55ffc93bf.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Atlas",
-      "condition": "new"
-    },
-    {
-      "name": "2026 Volkswagen Atlas Execline",
-      "vin": "1V2FN2CA4TC564263",
-      "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/new/518fae242af6.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Atlas",
       "condition": "new"
     },
     {
@@ -679,15 +685,6 @@
     },
     {
       "name": "2026 Volkswagen Tiguan Comfortline 4MOTION",
-      "vin": "3VVMR7RMXTM175994",
-      "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/new/ca3c79eed772.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "new"
-    },
-    {
-      "name": "2026 Volkswagen Tiguan Comfortline 4MOTION",
       "vin": "3VVMR7RM1TM177231",
       "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/new/762ed9bec415.html",
       "year": 2026,
@@ -906,15 +903,6 @@
       "name": "2027 Volkswagen Tiguan Highline Turbo R-Line 4MOTION",
       "vin": "3VVUW7RM8VM003569",
       "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/new/f85ada092a69.html",
-      "year": 2027,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "new"
-    },
-    {
-      "name": "2027 Volkswagen Tiguan Highline Turbo R-Line 4MOTION",
-      "vin": "3VVUW7RM7VM003577",
-      "url": "https://willyml1979-dotcom.github.io/capilano-volkswagen-mirror/new/3acb39d38d90.html",
       "year": 2027,
       "make": "Volkswagen",
       "model": "Tiguan",
